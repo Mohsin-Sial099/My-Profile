@@ -1,4 +1,4 @@
-# 👋! Mohsin Saleem - GenAI & Machine Learning Enthusiast
+# 👋! Mohsin Saleem - GenAI & Machine Learning Enthusiast 👋
 
 Welcome to my interactive portfolio repository! This repository showcases my journey, skills, projects, and achievements in the field of Artificial Intelligence, Machine Lear ning, and Generative AI. Feel free to explore, contribute, and connect!
 
